@@ -5,7 +5,7 @@
 * Description: You are not allowed to include standard libraries.
 * Return: 0
 */
-int main (void)
+int main(void)
 {
 char destination[] = "_putchar";
 
