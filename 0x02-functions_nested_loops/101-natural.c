@@ -17,5 +17,4 @@ sum += i;
 printf("%d\n", sum);
 return (0);
 }
-Footer
-© 2023 GitHub, Inc.
+
