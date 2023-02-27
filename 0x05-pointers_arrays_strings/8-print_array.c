@@ -18,7 +18,7 @@ i = 0;
 for (n--; n >= 0; n--, i++)
 {
 printf("%d", a[i]);
-if (n > 0)
+if(n > 0)
 	{
 	  printf(", ");
 	}
