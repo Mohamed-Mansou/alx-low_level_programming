@@ -3,12 +3,12 @@
 #include <stdio.h>
 
 /**
- * main - ...
- * @argc: ...
- * @argv: ...
- *
- * Return: ...
- */
+  * main - performs simple operations
+	* @argc: number of arguments passed to the function
+	* @argv: array of pointers to arguments
+	*
+	* Return: 0 or 98, 99, 100
+  */
 int main(int argc, char *argv[])
 {
 	int (*oprt)(int, int);
