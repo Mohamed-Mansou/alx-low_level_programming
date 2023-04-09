@@ -71,7 +71,7 @@ void check100(int check, int fd)
 	if (check == -1)
 	{
 		dprintf(STDERR_FILENO, "Error: Can't close fd %d\n", fd);
-	exit(100);
+	        exit(100);
 	}
 }
 /**
